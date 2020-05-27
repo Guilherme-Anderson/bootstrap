@@ -1,0 +1,40 @@
+body{
+    font: Ariel;
+}
+
+.navbar {
+    background-color: yellow;
+}
+
+.nav-item{
+    font-size: 40px;
+    margin: 20px;
+    margin-top: ;
+}
+
+.quem-somos{
+    background-color: whitesmoke;
+}
+
+.parceiros{
+    background-color: #ffff4d;
+}
+
+.servicos{
+    background-color: whitesmoke; 
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margin_titulo{
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white
+}
